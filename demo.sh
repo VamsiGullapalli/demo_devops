@@ -1,6 +1,4 @@
 #!/bin/bash
 
 echo "this is main branch"
-echo "check hooks"
-echo "check again"
-echo "check 3"
+echo "check web hooks configured in github"
